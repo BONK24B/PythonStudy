@@ -30,6 +30,3 @@ for i in array:
     counter += i
 
 print(counter)
-
-
-
