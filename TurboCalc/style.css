@@ -1,0 +1,24 @@
+QWidget {
+    color: rgb(241, 146, 215);
+    background-color: #f749a3;
+    font-family: Rubik;
+    font-size: 16pt;
+    font-weight: 600;
+}
+
+QPushButton{
+    background-color: transparent;
+    border: none;
+}
+
+QPushButton:hover{
+    background-color: rgb(66, 207, 246);
+}
+
+QPushButton:pressed{
+    background-color: rgb(40, 136, 240);
+}
+
+QLabel{
+    color:rgb(241, 146, 215);
+}
